@@ -356,3 +356,12 @@
 [14:49:17] [Server thread/INFO]: NoUR_455[/10.147.20.7:64025] logged in with entity id 73449 at (-4425.831491684325, 65.0, -956.8751870750897)
 [14:49:17] [Server thread/INFO]: NoUR_455 joined the game
 [14:49:48] [Server thread/INFO]: NoUR_455 was slain by Enderman
+[14:54:17] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[14:54:17] [Server thread/INFO]: NoUR_455 left the game
+[14:54:28] [User Authenticator #20/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[14:54:29] [Server thread/INFO]: NoUR_455[/10.147.20.7:64296] logged in with entity id 75686 at (-4449.99934316899, 190.0, -956.6999999880791)
+[14:54:29] [Server thread/INFO]: NoUR_455 joined the game
+[14:55:18] [Server thread/INFO]: NoUR_455 fell from a high place
+[14:57:09] [Server thread/INFO]: NoUR_455 tried to swim in lava
+[14:57:34] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[14:57:34] [Server thread/INFO]: NoUR_455 left the game
