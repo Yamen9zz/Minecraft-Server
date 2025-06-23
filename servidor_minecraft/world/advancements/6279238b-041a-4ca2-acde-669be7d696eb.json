@@ -388,9 +388,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-21 20:47:36 +0000",
+      "minecraft:blaze": "2025-06-23 14:19:14 +0000",
       "minecraft:skeleton": "2025-06-21 12:41:50 +0000",
       "minecraft:zombified_piglin": "2025-06-22 11:06:33 +0000",
       "minecraft:witch": "2025-06-22 18:33:21 +0000",
+      "minecraft:wither_skeleton": "2025-06-23 14:16:58 +0000",
       "minecraft:ghast": "2025-06-22 11:06:25 +0000",
       "minecraft:hoglin": "2025-06-22 13:27:05 +0000",
       "minecraft:cave_spider": "2025-06-21 19:23:07 +0000",
@@ -3223,6 +3225,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-23 14:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-06-23 13:14:11 +0000"
@@ -3280,6 +3288,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-06-23 14:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-23 14:19:27 +0000"
     },
     "done": true
   },
@@ -3412,6 +3426,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-06-23 14:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-23 14:19:27 +0000"
     },
     "done": true
   },
@@ -3598,6 +3618,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-06-23 13:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-23 14:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-23 14:19:27 +0000"
     },
     "done": true
   },
