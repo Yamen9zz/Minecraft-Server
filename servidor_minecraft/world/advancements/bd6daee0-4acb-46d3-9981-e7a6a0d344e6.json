@@ -29,6 +29,7 @@
       "minecraft:lukewarm_ocean": "2025-06-21 13:04:45 +0000",
       "minecraft:stony_shore": "2025-06-21 16:47:01 +0000",
       "minecraft:dripstone_caves": "2025-06-21 21:01:44 +0000",
+      "minecraft:deep_dark": "2025-06-23 13:33:23 +0000",
       "minecraft:swamp": "2025-06-22 12:20:40 +0000",
       "minecraft:savanna": "2025-06-21 13:10:19 +0000",
       "minecraft:plains": "2025-06-21 12:31:16 +0000"
@@ -3147,6 +3148,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-23 13:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-23 13:33:43 +0000"
     },
     "done": true
   },

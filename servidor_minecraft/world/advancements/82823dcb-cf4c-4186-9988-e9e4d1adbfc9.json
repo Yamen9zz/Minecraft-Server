@@ -20,6 +20,7 @@
       "minecraft:birch_forest": "2025-06-21 20:36:09 +0000",
       "minecraft:windswept_hills": "2025-06-22 18:42:21 +0000",
       "minecraft:windswept_savanna": "2025-06-23 10:32:23 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-23 13:35:45 +0000",
       "minecraft:badlands": "2025-06-23 13:12:07 +0000",
       "minecraft:flower_forest": "2025-06-21 13:11:35 +0000",
       "minecraft:beach": "2025-06-21 13:04:09 +0000",
@@ -315,7 +316,8 @@
       "potato": "2025-06-21 14:04:29 +0000",
       "cooked_beef": "2025-06-21 12:58:11 +0000",
       "baked_potato": "2025-06-21 14:11:54 +0000",
-      "porkchop": "2025-06-22 18:31:37 +0000"
+      "porkchop": "2025-06-22 18:31:37 +0000",
+      "golden_carrot": "2025-06-23 13:38:22 +0000"
     },
     "done": false
   },
@@ -2506,9 +2508,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-23 13:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-06-23 12:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-23 13:35:12 +0000"
     },
     "done": true
   },
@@ -2521,6 +2535,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-23 13:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-23 13:42:28 +0000"
     },
     "done": true
   },
@@ -2548,9 +2568,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-23 13:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-23 13:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-23 13:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-23 12:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-23 13:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-23 13:42:28 +0000"
     },
     "done": true
   },
@@ -2560,9 +2610,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-23 13:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-06-23 12:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-23 13:42:28 +0000"
     },
     "done": true
   },
