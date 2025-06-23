@@ -1,0 +1,32 @@
+[12:06:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:06:09] [ServerMain/INFO]: Loaded 1370 recipes
+[12:06:09] [ServerMain/INFO]: Loaded 1481 advancements
+[12:06:09] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[12:06:09] [Server thread/INFO]: Loading properties
+[12:06:09] [Server thread/INFO]: Default game type: SURVIVAL
+[12:06:09] [Server thread/INFO]: Generating keypair
+[12:06:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:06:10] [Server thread/INFO]: Using epoll channel type
+[12:06:10] [Server thread/INFO]: Preparing level "world"
+[12:06:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:06:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:06:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:06:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:06:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:06:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:06:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:06:13] [Server thread/INFO]: Time elapsed: 2757 ms
+[12:06:13] [Server thread/INFO]: Done (2.969s)! For help, type "help"
+[12:06:41] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:06:42] [Server thread/INFO]: Yamen9z[/10.147.20.81:63520] logged in with entity id 7 at (-502530.3125, 62.11076431240136, -292788.8333741432)
+[12:06:42] [Server thread/INFO]: Yamen9z joined the game
+[12:07:16] [User Authenticator #2/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[12:07:17] [Server thread/INFO]: NoUR_455[/10.147.20.7:53923] logged in with entity id 436 at (-4428.805764643196, 64.0, -998.300699341624)
+[12:07:17] [Server thread/INFO]: NoUR_455 joined the game
+[12:07:31] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 3468.500000, -34.000000, 733.500000]
+[12:07:38] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to NoUR_455]
+[12:07:55] [Server thread/INFO]: NoUR_455 was killed
+[12:07:55] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
+[12:09:38] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to NoUR_455]
+[12:10:03] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 3468.500000, -34.000000, 733.500000]
+[12:14:37] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to NoUR_455]
