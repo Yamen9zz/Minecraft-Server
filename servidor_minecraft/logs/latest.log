@@ -39,3 +39,21 @@
 [12:26:58] [Server thread/INFO]: NoUR_455 joined the game
 [12:28:13] [Server thread/INFO]: NoUR_455 lost connection: Timed out
 [12:28:13] [Server thread/INFO]: NoUR_455 left the game
+[12:28:25] [User Authenticator #4/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[12:28:26] [Server thread/INFO]: NoUR_455[/10.147.20.7:55036] logged in with entity id 6227 at (3453.6418197575704, -39.0, 749.2483824031137)
+[12:28:26] [Server thread/INFO]: NoUR_455 joined the game
+[12:29:26] [User Authenticator #5/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[12:29:27] [Server thread/INFO]: LEON_445[/10.147.20.36:58323] logged in with entity id 6531 at (-4453.111280731997, 64.0, -992.2468781359632)
+[12:29:27] [Server thread/INFO]: LEON_445 joined the game
+[12:30:27] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to Yamen9z]
+[12:33:56] [Server thread/INFO]: NoUR_455 was killed
+[12:33:56] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
+[12:35:34] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
+[12:35:42] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[12:35:42] [Server thread/INFO]: NoUR_455 left the game
+[12:35:51] [User Authenticator #6/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[12:35:52] [Server thread/INFO]: NoUR_455[/10.147.20.7:55418] logged in with entity id 8945 at (-4454.191411058037, 184.0, -954.2977524922093)
+[12:35:52] [Server thread/INFO]: NoUR_455 joined the game
+[12:37:33] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[12:37:48] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to NoUR_455]
+[12:38:17] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
