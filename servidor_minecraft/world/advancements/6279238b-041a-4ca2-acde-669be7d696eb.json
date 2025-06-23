@@ -24,6 +24,7 @@
       "minecraft:windswept_hills": "2025-06-22 18:20:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-23 07:03:39 +0000",
       "minecraft:bamboo_jungle": "2025-06-22 19:35:27 +0000",
+      "minecraft:wooded_badlands": "2025-06-23 13:16:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-22 12:23:58 +0000",
       "minecraft:badlands": "2025-06-23 13:12:08 +0000",
       "minecraft:flower_forest": "2025-06-21 13:11:32 +0000",
@@ -83,7 +84,8 @@
       "cooked_mutton": "2025-06-21 12:37:24 +0000",
       "cooked_beef": "2025-06-21 12:51:46 +0000",
       "melon_slice": "2025-06-21 13:06:43 +0000",
-      "porkchop": "2025-06-21 12:29:30 +0000"
+      "porkchop": "2025-06-21 12:29:30 +0000",
+      "golden_carrot": "2025-06-23 13:18:27 +0000"
     },
     "done": false
   },
