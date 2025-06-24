@@ -1,43 +1,10 @@
-[12:29:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:29:38] [ServerMain/INFO]: Loaded 1370 recipes
-[12:29:38] [ServerMain/INFO]: Loaded 1481 advancements
-[12:29:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[12:29:38] [Server thread/INFO]: Loading properties
-[12:29:38] [Server thread/INFO]: Default game type: SURVIVAL
-[12:29:38] [Server thread/INFO]: Generating keypair
-[12:29:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:29:38] [Server thread/INFO]: Using epoll channel type
-[12:29:38] [Server thread/INFO]: Preparing level "world"
-[12:29:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:29:42] [Server thread/INFO]: Time elapsed: 3529 ms
-[12:29:42] [Server thread/INFO]: Done (3.816s)! For help, type "help"
-[12:29:47] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[12:29:49] [Server thread/INFO]: Yamen9z[/10.147.20.81:51630] logged in with entity id 7 at (3459.9902327374098, -45.0, 728.0488654877315)
-[12:29:49] [Server thread/INFO]: Yamen9z joined the game
-[12:29:54] [User Authenticator #2/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:29:54] [Server thread/INFO]: NoUR_455[/10.147.20.7:60662] logged in with entity id 147 at (-452.4399378976552, 52.0, -176.30571167033543)
-[12:29:54] [Server thread/INFO]: NoUR_455 joined the game
-[12:29:55] [User Authenticator #3/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
-[12:29:55] [Server thread/INFO]: LEON_445[/10.147.20.36:52925] logged in with entity id 173 at (-3560.9192944501974, -29.0, -852.1668371893136)
-[12:29:55] [Server thread/INFO]: LEON_445 joined the game
-[12:29:56] [User Authenticator #4/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
-[12:29:57] [Server thread/INFO]: Shree6y[/10.147.20.38:64223] logged in with entity id 400 at (-4567.676992094086, 65.0, -988.981411317349)
-[12:29:57] [Server thread/INFO]: Shree6y joined the game
-[12:30:52] [Server thread/INFO]: <Shree6y> zzzzzzzzzzzz
-[12:30:53] [Server thread/INFO]: <Shree6y> zzzzzzzzzzzzzzzzzzz
-[12:33:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-391, y=79, z=-156} ji{x=-391, y=79, z=-157}
-[12:33:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-391, y=79, z=-155} ji{x=-391, y=79, z=-157}
-[12:33:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-391, y=79, z=-155} ji{x=-391, y=79, z=-157}
-[12:35:31] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -4499.500000, 70.000000, -969.500000]
-[12:37:14] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Shree6y]
-[12:37:36] [Server thread/INFO]: Shree6y has made the advancement [Best Friends Forever]
-[12:37:50] [Server thread/INFO]: Yamen9z lost connection: Timed out
-[12:37:50] [Server thread/INFO]: Yamen9z left the game
-[12:37:50] [Server thread/WARN]: handleDisconnection() called twice
+[12:43:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:43:13] [ServerMain/ERROR]: Failed to start the minecraft server
+ayf$a: /workspaces/Minecraft-Server/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at ayf$a.a(SourceFile:95) ~[server-1.21.4.jar:?]
+	at ayf.a(SourceFile:41) ~[server-1.21.4.jar:?]
+	at evg$c.<init>(SourceFile:374) ~[server-1.21.4.jar:?]
+	at evg.d(SourceFile:353) ~[server-1.21.4.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:139) ~[server-1.21.4.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
