@@ -231,6 +231,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-22 19:53:45 +0000",
       "minecraft:piglin": "2025-06-22 21:20:14 +0000",
+      "minecraft:phantom": "2025-06-24 16:00:05 +0000",
       "minecraft:zombified_piglin": "2025-06-22 21:20:57 +0000",
       "minecraft:enderman": "2025-06-22 20:34:24 +0000",
       "minecraft:silverfish": "2025-06-24 13:01:48 +0000",
@@ -2599,6 +2600,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-06-24 15:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-06-24 15:58:22 +0000"
     },
     "done": true
   },
