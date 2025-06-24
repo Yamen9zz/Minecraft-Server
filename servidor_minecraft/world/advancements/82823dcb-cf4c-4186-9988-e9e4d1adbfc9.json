@@ -64,6 +64,7 @@
       "minecraft:breeze": "2025-06-21 14:08:06 +0000",
       "minecraft:enderman": "2025-06-23 13:20:47 +0000",
       "minecraft:stray": "2025-06-24 08:26:24 +0000",
+      "minecraft:silverfish": "2025-06-24 13:27:34 +0000",
       "minecraft:magma_cube": "2025-06-24 08:49:51 +0000",
       "minecraft:spider": "2025-06-21 13:07:40 +0000",
       "minecraft:zombie": "2025-06-21 12:28:46 +0000",
@@ -2969,9 +2970,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-24 13:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-06-24 13:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-24 13:27:39 +0000"
     },
     "done": true
   },

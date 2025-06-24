@@ -18,6 +18,7 @@
       "minecraft:stony_shore": "2025-06-22 21:07:24 +0000",
       "minecraft:lush_caves": "2025-06-22 20:43:12 +0000",
       "minecraft:dripstone_caves": "2025-06-24 12:50:03 +0000",
+      "minecraft:deep_dark": "2025-06-24 13:24:06 +0000",
       "minecraft:ocean": "2025-06-22 20:02:28 +0000",
       "minecraft:jungle": "2025-06-22 21:08:02 +0000",
       "minecraft:sunflower_plains": "2025-06-22 19:51:23 +0000",
@@ -2275,6 +2276,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-24 13:28:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-24 12:56:58 +0000"
@@ -2302,6 +2309,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-24 12:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-24 13:24:10 +0000"
     },
     "done": true
   },
