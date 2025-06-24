@@ -282,3 +282,14 @@
 [12:04:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=69, z=-148} ji{x=-525, y=70, z=-148}
 [12:04:18] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-522, y=69, z=-149} ji{x=-522, y=68, z=-149}
 [12:06:46] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
+[12:07:11] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
+[12:08:07] [Server thread/INFO]: Yamen9z lost connection: Timed out
+[12:08:07] [Server thread/INFO]: Yamen9z left the game
+[12:08:14] [User Authenticator #7/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:08:15] [Server thread/INFO]: Yamen9z[/10.147.20.81:64795] logged in with entity id 142543 at (-3563.3158942983414, -29.0, -853.4221362657174)
+[12:08:15] [Server thread/INFO]: Yamen9z joined the game
+[12:08:20] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 70.000000, -969.500000]
+[12:08:29] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[12:09:51] [Server thread/INFO]: <NoUR_455> -4500 70 -970
+[12:10:00] [Server thread/INFO]: <NoUR_455> 3460 -45 728
+[12:10:34] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 3460.500000, -45.000000, 728.500000]
