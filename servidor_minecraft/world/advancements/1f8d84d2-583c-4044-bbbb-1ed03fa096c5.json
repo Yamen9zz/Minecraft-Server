@@ -8,15 +8,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-06-22 19:50:27 +0000",
+      "minecraft:beach": "2025-06-24 10:02:31 +0000",
       "minecraft:forest": "2025-06-24 09:44:36 +0000",
       "minecraft:sparse_jungle": "2025-06-22 21:08:52 +0000",
-      "minecraft:ocean": "2025-06-22 20:02:28 +0000",
-      "minecraft:jungle": "2025-06-22 21:08:02 +0000",
-      "minecraft:sunflower_plains": "2025-06-22 19:51:23 +0000",
       "minecraft:river": "2025-06-22 19:51:19 +0000",
       "minecraft:lukewarm_ocean": "2025-06-22 20:33:04 +0000",
       "minecraft:stony_shore": "2025-06-22 21:07:24 +0000",
       "minecraft:lush_caves": "2025-06-22 20:43:12 +0000",
+      "minecraft:ocean": "2025-06-22 20:02:28 +0000",
+      "minecraft:jungle": "2025-06-22 21:08:02 +0000",
+      "minecraft:sunflower_plains": "2025-06-22 19:51:23 +0000",
       "minecraft:plains": "2025-06-22 19:17:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-22 20:42:09 +0000"
     },
@@ -1885,6 +1886,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-24 09:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-24 10:11:30 +0000"
     },
     "done": true
   },
