@@ -1,5 +1,5 @@
-[12:51:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:51:53] [ServerMain/ERROR]: Failed to start the minecraft server
+[17:32:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:32:53] [ServerMain/ERROR]: Failed to start the minecraft server
 ayf$a: /workspaces/Minecraft-Server/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
 	at ayf$a.a(SourceFile:95) ~[server-1.21.4.jar:?]
 	at ayf.a(SourceFile:41) ~[server-1.21.4.jar:?]
