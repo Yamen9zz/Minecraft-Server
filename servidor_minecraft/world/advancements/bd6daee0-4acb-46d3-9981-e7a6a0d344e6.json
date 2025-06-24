@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-06-24 14:14:11 +0000",
       "minecraft:forest": "2025-06-21 12:31:44 +0000",
+      "minecraft:taiga": "2025-06-24 14:13:45 +0000",
       "minecraft:deep_ocean": "2025-06-21 16:33:02 +0000",
       "minecraft:lush_caves": "2025-06-22 20:43:06 +0000",
       "minecraft:eroded_badlands": "2025-06-21 16:12:07 +0000",
@@ -364,6 +366,7 @@
       "cooked_chicken": "2025-06-21 13:00:22 +0000",
       "rotten_flesh": "2025-06-21 12:34:01 +0000",
       "cooked_mutton": "2025-06-21 15:20:31 +0000",
+      "salmon": "2025-06-24 14:15:58 +0000",
       "cooked_beef": "2025-06-21 14:36:11 +0000",
       "melon_slice": "2025-06-21 12:56:30 +0000"
     },
@@ -3241,6 +3244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-24 14:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-06-24 12:58:05 +0000"
@@ -3259,9 +3268,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-24 14:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-06-24 12:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-24 14:14:58 +0000"
     },
     "done": true
   },
@@ -3289,6 +3310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-24 14:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-24 12:58:05 +0000"
@@ -3301,6 +3328,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-24 14:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-06-24 12:58:04 +0000"
@@ -3310,6 +3343,18 @@
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-06-24 13:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-24 14:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-24 14:15:04 +0000"
     },
     "done": true
   },
