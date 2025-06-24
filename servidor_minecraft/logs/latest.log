@@ -153,3 +153,14 @@
 [10:12:47] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
 [10:13:34] [Server thread/INFO]: Shree6y was doomed to fall by Zombie
 [10:13:38] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
+[10:14:44] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
+[10:15:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501500, y=66, z=-293237} ji{x=-501501, y=65, z=-293233}
+[10:15:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501500, y=66, z=-293237} ji{x=-501501, y=65, z=-293233}
+[10:15:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501500, y=66, z=-293237} ji{x=-501501, y=65, z=-293233}
+[10:19:05] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
+[10:19:10] [Server thread/INFO]: LEON_445 was slain by Shree6y
+[10:19:29] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
+[10:20:13] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[10:23:50] [Server thread/INFO]: LEON_445 was slain by Zombie
+[10:24:14] [Server thread/INFO]: [Shree6y: Gave 1 [Command Block] to Shree6y]
+[10:24:22] [Server thread/INFO]: [Shree6y: Gave 1 [Command Block] to Shree6y]
