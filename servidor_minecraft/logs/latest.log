@@ -80,3 +80,18 @@
 [08:56:19] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
 [08:58:11] [Server thread/INFO]: LEON_445 fell from a high place
 [08:59:41] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
+[09:03:11] [User Authenticator #3/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
+[09:03:14] [Server thread/INFO]: Shree6y[/10.147.20.38:51593] logged in with entity id 19715 at (-4440.156531444424, 65.0, -987.786855430658)
+[09:03:14] [Server thread/INFO]: Shree6y joined the game
+[09:06:42] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 6164.500000, 70.000000, 3308.500000]
+[09:06:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=5122, y=83, z=2313} ji{x=6164, y=71, z=3308}
+[09:11:22] [Server thread/INFO]: LEON_445 was slain by Zombified Piglin
+[09:15:42] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
+[09:16:57] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
+[09:18:10] [Server thread/INFO]: LEON_445 was slain by Shree6y
+[09:19:01] [Server thread/INFO]: Yamen9z was killed
+[09:19:01] [Server thread/INFO]: [Shree6y: Killed Yamen9z]
+[09:19:08] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
+[09:19:29] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Shree6y]
+[09:19:46] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
+[09:21:43] [Server thread/WARN]: Yamen9z moved too quickly! 8.229053398802535,1.0,-5.701921044839651
