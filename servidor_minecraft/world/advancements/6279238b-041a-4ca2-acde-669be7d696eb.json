@@ -29,6 +29,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-22 12:23:58 +0000",
       "minecraft:badlands": "2025-06-23 13:12:08 +0000",
       "minecraft:flower_forest": "2025-06-21 13:11:32 +0000",
+      "minecraft:savanna_plateau": "2025-06-24 12:37:15 +0000",
       "minecraft:beach": "2025-06-21 13:04:10 +0000",
       "minecraft:stony_peaks": "2025-06-22 19:28:14 +0000",
       "minecraft:sparse_jungle": "2025-06-21 12:55:45 +0000",
@@ -3735,6 +3736,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-24 10:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-24 12:17:45 +0000"
     },
     "done": true
   },

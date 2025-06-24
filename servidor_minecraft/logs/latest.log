@@ -1,295 +1,43 @@
-[08:11:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:11:23] [ServerMain/INFO]: Loaded 1370 recipes
-[08:11:23] [ServerMain/INFO]: Loaded 1481 advancements
-[08:11:23] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[08:11:23] [Server thread/INFO]: Loading properties
-[08:11:23] [Server thread/INFO]: Default game type: SURVIVAL
-[08:11:23] [Server thread/INFO]: Generating keypair
-[08:11:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:11:23] [Server thread/INFO]: Using epoll channel type
-[08:11:23] [Server thread/INFO]: Preparing level "world"
-[08:11:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:11:29] [Server thread/INFO]: Time elapsed: 4857 ms
-[08:11:29] [Server thread/INFO]: Done (5.129s)! For help, type "help"
-[08:12:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[08:12:33] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[08:12:34] [Server thread/INFO]: Yamen9z[/10.147.20.81:51155] logged in with entity id 7 at (-49999.7, 89.0, 300000.5)
-[08:12:34] [Server thread/INFO]: Yamen9z joined the game
-[08:13:02] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -499999.500000, 70.000000, -299999.500000]
-[08:15:28] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501644.500000, 70.000000, -293079.500000]
-[08:20:16] [User Authenticator #2/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
-[08:20:17] [Server thread/INFO]: LEON_445[/10.147.20.36:50086] logged in with entity id 2961 at (-4259.300000011921, 64.0, -1071.300000011921)
-[08:20:17] [Server thread/INFO]: LEON_445 joined the game
-[08:20:30] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:20:36] [Server thread/INFO]: <Yamen9z> ro7 oftor
-[08:20:53] [Server thread/INFO]: <Yamen9z> btsabeh 3la minecraft
-[08:20:54] [Server thread/INFO]: <LEON_445> laaa3
-[08:21:44] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:21:58] [Server thread/INFO]: <LEON_445> discord
-[08:23:03] [Server thread/INFO]: <Yamen9z> b3ref asba7
-[08:23:48] [Server thread/INFO]: <LEON_445> discoooooord
-[08:23:55] [Server thread/INFO]: <LEON_445> ya 3rs
-[08:24:04] [Server thread/INFO]: <Yamen9z> hhhhhhhhhhhhhhhhhhhhhhhhhhh
-[08:24:55] [Server thread/INFO]: LEON_445 drowned
-[08:25:05] [Server thread/INFO]: <Yamen9z> noob
-[08:25:10] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:25:21] [Server thread/INFO]: <LEON_445> khosh dis
-[08:30:39] [Server thread/INFO]: Yamen9z drowned
-[08:31:23] [Server thread/INFO]: LEON_445 fell from a high place
-[08:31:46] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[08:36:59] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:40:24] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501644.500000, 70.000000, -293079.500000]
-[08:40:34] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501645, y=76, z=-293081} ji{x=-501644, y=71, z=-293081}
-[08:40:34] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:43:27] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:44:27] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:45:45] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[08:45:56] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501644.500000, 70.000000, 293080.500000]
-[08:46:12] [Server thread/INFO]: Yamen9z fell from a high place
-[08:46:16] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[08:46:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501466, y=49, z=-293101} ji{x=-501464, y=50, z=-293100}
-[08:46:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501466, y=49, z=-293101} ji{x=-501464, y=50, z=-293100}
-[08:46:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501466, y=49, z=-293101} ji{x=-501464, y=50, z=-293100}
-[08:46:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501466, y=49, z=-293101} ji{x=-501464, y=50, z=-293100}
-[08:46:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501466, y=49, z=-293101} ji{x=-501464, y=50, z=-293100}
-[08:46:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501466, y=49, z=-293101} ji{x=-501464, y=50, z=-293100}
-[08:46:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501466, y=49, z=-293101} ji{x=-501464, y=50, z=-293100}
-[08:48:09] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 501645.500000, 70.000000, 293080.500000]
-[08:48:19] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:48:19] [Server thread/INFO]: LEON_445 has completed the challenge [Hot Tourist Destinations]
-[08:48:28] [Server thread/INFO]: LEON_445 burned to death
-[08:48:38] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:49:40] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 501645.500000, 70.000000, 293080.500000]
-[08:49:43] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[08:50:08] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[08:53:08] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 50164.500000, 70.000000, 29308.500000]
-[08:53:10] [Server thread/INFO]: Yamen9z fell from a high place
-[08:53:14] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[08:55:31] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 5164.500000, 70.000000, 2308.500000]
-[08:56:08] [Server thread/INFO]: LEON_445 hit the ground too hard while trying to escape Zombified Piglin
-[08:56:19] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[08:58:11] [Server thread/INFO]: LEON_445 fell from a high place
-[08:59:41] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[09:03:11] [User Authenticator #3/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
-[09:03:14] [Server thread/INFO]: Shree6y[/10.147.20.38:51593] logged in with entity id 19715 at (-4440.156531444424, 65.0, -987.786855430658)
-[09:03:14] [Server thread/INFO]: Shree6y joined the game
-[09:06:42] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 6164.500000, 70.000000, 3308.500000]
-[09:06:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=5122, y=83, z=2313} ji{x=6164, y=71, z=3308}
-[09:11:22] [Server thread/INFO]: LEON_445 was slain by Zombified Piglin
-[09:15:42] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[09:16:57] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[09:18:10] [Server thread/INFO]: LEON_445 was slain by Shree6y
-[09:19:01] [Server thread/INFO]: Yamen9z was killed
-[09:19:01] [Server thread/INFO]: [Shree6y: Killed Yamen9z]
-[09:19:08] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[09:19:29] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Shree6y]
-[09:19:46] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[09:21:43] [Server thread/WARN]: Yamen9z moved too quickly! 8.229053398802535,1.0,-5.701921044839651
-[09:24:12] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:24:36] [Server thread/INFO]: LEON_445 was slain by Zombified Piglin
-[09:24:45] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:25:46] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:26:12] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[09:27:52] [Server thread/INFO]: LEON_445 tried to swim in lava
-[09:29:35] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[09:30:03] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 10164.500000, 70.000000, 10308.500000]
-[09:30:10] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[09:30:10] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[09:34:11] [Server thread/INFO]: LEON_445 was slain by Shree6y
-[09:34:20] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[09:35:04] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 333.500000, 20.000000, 300.500000]
-[09:35:13] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[09:35:21] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[09:35:42] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 6164.500000, 70.000000, 3308.500000]
-[09:35:53] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 6164.500000, 80.000000, 3308.500000]
-[09:35:59] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 6164.500000, 90.000000, 3308.500000]
-[09:36:10] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:37:07] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[09:37:09] [Server thread/INFO]: LEON_445 tried to swim in lava
-[09:37:22] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:37:37] [Server thread/INFO]: LEON_445 was doomed to fall by Zombified Piglin
-[09:37:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=6137, y=92, z=3340} ji{x=6137, y=92, z=3342}
-[09:37:50] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:38:42] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[09:38:46] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 0.500000, 90.000000, 0.500000]
-[09:42:01] [Server thread/INFO]: LEON_445 fell from a high place
-[09:42:11] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:42:50] [Server thread/INFO]: LEON_445 tried to swim in lava
-[09:43:01] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:43:09] [Server thread/INFO]: LEON_445 was slain by Piglin
-[09:43:16] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[09:45:39] [Server thread/INFO]: LEON_445 was slain by Wither Skeleton
-[09:46:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-254, y=105, z=410} ji{x=-254, y=104, z=425}
-[09:47:18] [Server thread/INFO]: LEON_445 was slain by Shree6y
-[09:49:34] [Server thread/INFO]: Shree6y has made the advancement [Into Fire]
-[09:50:05] [Server thread/INFO]: Shree6y has made the advancement [Ice Bucket Challenge]
-[09:52:04] [Server thread/INFO]: Yamen9z fell from a high place
-[09:53:01] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[09:55:14] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[09:57:18] [Server thread/INFO]: LEON_445 was blown up by Creeper
-[09:59:40] [User Authenticator #4/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[09:59:40] [Server thread/INFO]: NoUR_455[/10.147.20.7:59316] logged in with entity id 47013 at (-4437.656432785079, 65.0, -990.8246446318763)
-[09:59:40] [Server thread/INFO]: NoUR_455 joined the game
-[10:00:07] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501644.500000, 70.000000, 293080.500000]
-[10:00:12] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 10164.500000, 70.000000, 10308.500000]
-[10:00:27] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501644.500000, 70.000000, -293079.500000]
-[10:03:54] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[10:05:12] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[10:07:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501496, y=68, z=-293226} ji{x=-501496, y=67, z=-293226}
-[10:07:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501496, y=68, z=-293226} ji{x=-501496, y=67, z=-293226}
-[10:07:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501496, y=68, z=-293226} ji{x=-501496, y=67, z=-293226}
-[10:10:48] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[10:12:14] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[10:12:47] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[10:13:34] [Server thread/INFO]: Shree6y was doomed to fall by Zombie
-[10:13:38] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[10:14:44] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[10:15:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501500, y=66, z=-293237} ji{x=-501501, y=65, z=-293233}
-[10:15:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501500, y=66, z=-293237} ji{x=-501501, y=65, z=-293233}
-[10:15:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501500, y=66, z=-293237} ji{x=-501501, y=65, z=-293233}
-[10:19:05] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[10:19:10] [Server thread/INFO]: LEON_445 was slain by Shree6y
-[10:19:29] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[10:20:13] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[10:23:50] [Server thread/INFO]: LEON_445 was slain by Zombie
-[10:24:14] [Server thread/INFO]: [Shree6y: Gave 1 [Command Block] to Shree6y]
-[10:24:22] [Server thread/INFO]: [Shree6y: Gave 1 [Command Block] to Shree6y]
-[10:25:19] [Server thread/INFO]: [Shree6y: Set own game mode to Creative Mode]
-[10:25:47] [Server thread/INFO]: LEON_445 was killed
-[10:25:47] [Server thread/INFO]: [Shree6y: Killed LEON_445]
-[10:25:57] [Server thread/INFO]: [Shree6y: Set own game mode to Survival Mode]
-[10:26:04] [Server thread/INFO]: [Shree6y: Set own game mode to Creative Mode]
-[10:26:35] [Server thread/INFO]: [Shree6y: Set own game mode to Survival Mode]
-[10:26:45] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3557.500000, -19.000000, -858.500000]
-[10:27:00] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[10:27:24] [Server thread/INFO]: [Shree6y: Set own game mode to Creative Mode]
-[10:28:30] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[10:30:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501491, y=69, z=-293207} ji{x=-501492, y=68, z=-293206}
-[10:30:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501491, y=69, z=-293207} ji{x=-501492, y=68, z=-293206}
-[10:30:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501491, y=69, z=-293207} ji{x=-501492, y=68, z=-293206}
-[10:30:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501491, y=69, z=-293207} ji{x=-501492, y=68, z=-293206}
-[10:30:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501491, y=69, z=-293207} ji{x=-501492, y=68, z=-293206}
-[10:30:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501491, y=69, z=-293207} ji{x=-501492, y=68, z=-293206}
-[10:30:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501491, y=69, z=-293207} ji{x=-501492, y=68, z=-293206}
-[10:30:51] [Server thread/INFO]: [Shree6y: Set own game mode to Survival Mode]
-[10:30:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501501, y=69, z=-293203} ji{x=-501500, y=68, z=-293206}
-[10:31:17] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
-[10:31:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501489, y=67, z=-293206} ji{x=-501491, y=66, z=-293205}
-[10:31:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501489, y=67, z=-293206} ji{x=-501491, y=66, z=-293205}
-[10:31:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501489, y=67, z=-293206} ji{x=-501491, y=66, z=-293205}
-[10:32:15] [Server thread/INFO]: NoUR_455 was killed
-[10:32:15] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[10:32:34] [Server thread/INFO]: <NoUR_455> 3460 -45 728
-[10:33:05] [Server thread/INFO]: LEON_445 was slain by Shree6y
-[10:34:38] [Server thread/INFO]: [Shree6y: Set own game mode to Creative Mode]
-[10:34:44] [Server thread/INFO]: [Shree6y: Set own game mode to Survival Mode]
-[10:39:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501525, y=67, z=-293214} ji{x=-501523, y=66, z=-293216}
-[10:40:22] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[10:43:32] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
-[10:43:40] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[10:44:59] [Server thread/INFO]: Shree6y has made the advancement [Hot Stuff]
-[10:45:52] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
-[10:46:32] [Server thread/INFO]: Villager coj['Librarian'/83108, l='ServerLevel[world]', x=-3129.32, y=63.00, z=-2701.32] died, message: 'Librarian was slain by NoUR_455'
-[10:46:38] [Server thread/INFO]: Villager coj['Toolsmith'/83060, l='ServerLevel[world]', x=-3132.51, y=65.00, z=-2693.34] died, message: 'Toolsmith was slain by NoUR_455'
-[10:47:35] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[10:47:37] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[10:47:41] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
-[10:48:30] [Server thread/INFO]: NoUR_455 was killed
-[10:48:30] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[10:56:57] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 3460.500000, -45.000000, 728.500000]
-[10:57:31] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to Shree6y]
-[10:58:20] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
-[10:58:55] [Server thread/INFO]: [Shree6y: Set Yamen9z's game mode to Survival Mode]
-[10:59:17] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 3460.500000, -45.000000, 728.500000]
-[10:59:40] [Server thread/INFO]: NoUR_455 was killed
-[10:59:40] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[10:59:54] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 3460.500000, -45.000000, 728.500000]
-[11:08:32] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[11:10:30] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[11:10:45] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:10:55] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[11:11:33] [Server thread/INFO]: LEON_445 was slain by Yamen9z
-[11:11:37] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[11:11:40] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[11:11:45] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[11:11:51] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[11:12:01] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to NoUR_455]
-[11:12:08] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[11:12:37] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[11:12:43] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
-[11:13:16] [Server thread/INFO]: NoUR_455 was killed
-[11:13:16] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[11:13:59] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501644.500000, 70.000000, -293079.500000]
-[11:14:42] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 0.500000, 70.000000, 0.500000]
-[11:15:29] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 100000.500000, 70.000000, 10000.500000]
-[11:19:07] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:19:19] [Server thread/INFO]: [Shree6y: Gamerule keepInventory is now set to: false]
-[11:23:09] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:23:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=100122, y=65, z=9912} ji{x=100132, y=71, z=9938}
-[11:23:30] [Server thread/WARN]: NoUR_455 moved too quickly! 4.9804129372687385,8.751864001409054,0.8889805910732775
-[11:23:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=100134, y=71, z=9939} ji{x=100134, y=70, z=9940}
-[11:23:51] [Server thread/INFO]: Shree6y lost connection: Disconnected
-[11:23:51] [Server thread/INFO]: Shree6y left the game
-[11:24:05] [User Authenticator #5/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
-[11:24:06] [Server thread/INFO]: Shree6y[/10.147.20.38:60379] logged in with entity id 117579 at (-3560.9912442024497, -29.0, -851.6854138992312)
-[11:24:06] [Server thread/INFO]: Shree6y joined the game
-[11:25:15] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:28:41] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:29:49] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:30:39] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[11:31:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=100077, y=55, z=9720} ji{x=100079, y=56, z=9720}
-[11:35:51] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:38:49] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[11:40:01] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:41:31] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[11:43:17] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=100105, y=55, z=9673} ji{x=100163, y=57, z=9694}
-[11:45:01] [Server thread/INFO]: [Yamen9z: Gamerule keepInventory is now set to: false]
-[11:45:09] [Server thread/INFO]: [Yamen9z: Gamerule keepInventory is now set to: true]
-[11:45:58] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[11:46:06] [Server thread/INFO]: Yamen9z tried to swim in lava
-[11:47:10] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -44999.500000, 70.000000, -9699.500000]
-[11:47:38] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -44999.500000, 70.000000, -969.500000]
-[11:47:39] [Server thread/WARN]: Yamen9z moved too quickly! 0.0,-10.806526110009003,0.0
-[11:48:27] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -4499.500000, 70.000000, -969.500000]
-[11:49:08] [Server thread/INFO]: [Yamen9z: Gamerule keepInventory is now set to: false]
-[11:50:18] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[11:54:29] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Yamen9z]
-[11:54:35] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 70.000000, -969.500000]
-[11:56:55] [Server thread/INFO]: Yamen9z lost connection: Timed out
-[11:56:55] [Server thread/INFO]: Yamen9z left the game
-[11:56:55] [Server thread/WARN]: handleDisconnection() called twice
-[11:57:48] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 3460.500000, -45.000000, 728.500000]
-[11:58:37] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to Shree6y]
-[11:58:43] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 3460.500000, -45.000000, 728.500000]
-[12:02:20] [User Authenticator #6/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[12:02:21] [Server thread/INFO]: Yamen9z[/10.147.20.81:64426] logged in with entity id 138904 at (-569.5169602767696, 57.024424088213685, -106.35396744361566)
-[12:02:21] [Server thread/INFO]: Yamen9z joined the game
-[12:04:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=69, z=-148} ji{x=-525, y=70, z=-148}
-[12:04:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=69, z=-148} ji{x=-525, y=70, z=-148}
-[12:04:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=69, z=-148} ji{x=-525, y=70, z=-148}
-[12:04:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=69, z=-148} ji{x=-525, y=70, z=-148}
-[12:04:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=69, z=-148} ji{x=-525, y=70, z=-148}
-[12:04:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=69, z=-148} ji{x=-525, y=70, z=-148}
-[12:04:18] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-522, y=69, z=-149} ji{x=-522, y=68, z=-149}
-[12:06:46] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[12:07:11] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to LEON_445]
-[12:08:07] [Server thread/INFO]: Yamen9z lost connection: Timed out
-[12:08:07] [Server thread/INFO]: Yamen9z left the game
-[12:08:14] [User Authenticator #7/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
-[12:08:15] [Server thread/INFO]: Yamen9z[/10.147.20.81:64795] logged in with entity id 142543 at (-3563.3158942983414, -29.0, -853.4221362657174)
-[12:08:15] [Server thread/INFO]: Yamen9z joined the game
-[12:08:20] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 70.000000, -969.500000]
-[12:08:29] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[12:09:51] [Server thread/INFO]: <NoUR_455> -4500 70 -970
-[12:10:00] [Server thread/INFO]: <NoUR_455> 3460 -45 728
-[12:10:34] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 3460.500000, -45.000000, 728.500000]
+[12:29:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:29:38] [ServerMain/INFO]: Loaded 1370 recipes
+[12:29:38] [ServerMain/INFO]: Loaded 1481 advancements
+[12:29:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[12:29:38] [Server thread/INFO]: Loading properties
+[12:29:38] [Server thread/INFO]: Default game type: SURVIVAL
+[12:29:38] [Server thread/INFO]: Generating keypair
+[12:29:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:29:38] [Server thread/INFO]: Using epoll channel type
+[12:29:38] [Server thread/INFO]: Preparing level "world"
+[12:29:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:29:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:29:42] [Server thread/INFO]: Time elapsed: 3529 ms
+[12:29:42] [Server thread/INFO]: Done (3.816s)! For help, type "help"
+[12:29:47] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:29:49] [Server thread/INFO]: Yamen9z[/10.147.20.81:51630] logged in with entity id 7 at (3459.9902327374098, -45.0, 728.0488654877315)
+[12:29:49] [Server thread/INFO]: Yamen9z joined the game
+[12:29:54] [User Authenticator #2/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[12:29:54] [Server thread/INFO]: NoUR_455[/10.147.20.7:60662] logged in with entity id 147 at (-452.4399378976552, 52.0, -176.30571167033543)
+[12:29:54] [Server thread/INFO]: NoUR_455 joined the game
+[12:29:55] [User Authenticator #3/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[12:29:55] [Server thread/INFO]: LEON_445[/10.147.20.36:52925] logged in with entity id 173 at (-3560.9192944501974, -29.0, -852.1668371893136)
+[12:29:55] [Server thread/INFO]: LEON_445 joined the game
+[12:29:56] [User Authenticator #4/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
+[12:29:57] [Server thread/INFO]: Shree6y[/10.147.20.38:64223] logged in with entity id 400 at (-4567.676992094086, 65.0, -988.981411317349)
+[12:29:57] [Server thread/INFO]: Shree6y joined the game
+[12:30:52] [Server thread/INFO]: <Shree6y> zzzzzzzzzzzz
+[12:30:53] [Server thread/INFO]: <Shree6y> zzzzzzzzzzzzzzzzzzz
+[12:33:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-391, y=79, z=-156} ji{x=-391, y=79, z=-157}
+[12:33:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-391, y=79, z=-155} ji{x=-391, y=79, z=-157}
+[12:33:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-391, y=79, z=-155} ji{x=-391, y=79, z=-157}
+[12:35:31] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -4499.500000, 70.000000, -969.500000]
+[12:37:14] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Shree6y]
+[12:37:36] [Server thread/INFO]: Shree6y has made the advancement [Best Friends Forever]
+[12:37:50] [Server thread/INFO]: Yamen9z lost connection: Timed out
+[12:37:50] [Server thread/INFO]: Yamen9z left the game
+[12:37:50] [Server thread/WARN]: handleDisconnection() called twice
