@@ -232,3 +232,20 @@
 [11:13:59] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501644.500000, 70.000000, -293079.500000]
 [11:14:42] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 0.500000, 70.000000, 0.500000]
 [11:15:29] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 100000.500000, 70.000000, 10000.500000]
+[11:19:07] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[11:19:19] [Server thread/INFO]: [Shree6y: Gamerule keepInventory is now set to: false]
+[11:23:09] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[11:23:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=100122, y=65, z=9912} ji{x=100132, y=71, z=9938}
+[11:23:30] [Server thread/WARN]: NoUR_455 moved too quickly! 4.9804129372687385,8.751864001409054,0.8889805910732775
+[11:23:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=100134, y=71, z=9939} ji{x=100134, y=70, z=9940}
+[11:23:51] [Server thread/INFO]: Shree6y lost connection: Disconnected
+[11:23:51] [Server thread/INFO]: Shree6y left the game
+[11:24:05] [User Authenticator #5/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
+[11:24:06] [Server thread/INFO]: Shree6y[/10.147.20.38:60379] logged in with entity id 117579 at (-3560.9912442024497, -29.0, -851.6854138992312)
+[11:24:06] [Server thread/INFO]: Shree6y joined the game
+[11:25:15] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[11:28:41] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[11:29:49] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[11:30:39] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
+[11:31:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=100077, y=55, z=9720} ji{x=100079, y=56, z=9720}
+[11:35:51] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
