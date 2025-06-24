@@ -17,6 +17,7 @@
       "minecraft:lukewarm_ocean": "2025-06-22 20:33:04 +0000",
       "minecraft:stony_shore": "2025-06-22 21:07:24 +0000",
       "minecraft:lush_caves": "2025-06-22 20:43:12 +0000",
+      "minecraft:dripstone_caves": "2025-06-24 12:50:03 +0000",
       "minecraft:ocean": "2025-06-22 20:02:28 +0000",
       "minecraft:jungle": "2025-06-22 21:08:02 +0000",
       "minecraft:sunflower_plains": "2025-06-22 19:51:23 +0000",
@@ -229,6 +230,7 @@
       "minecraft:piglin": "2025-06-22 21:20:14 +0000",
       "minecraft:zombified_piglin": "2025-06-22 21:20:57 +0000",
       "minecraft:enderman": "2025-06-22 20:34:24 +0000",
+      "minecraft:silverfish": "2025-06-24 13:01:48 +0000",
       "minecraft:spider": "2025-06-22 20:09:47 +0000",
       "minecraft:zombie": "2025-06-22 19:43:15 +0000",
       "minecraft:creeper": "2025-06-22 20:02:47 +0000",
@@ -2249,9 +2251,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-24 13:01:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-24 12:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
     },
     "done": true
   },
@@ -2261,9 +2275,69 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-24 12:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-24 12:56:58 +0000"
     },
     "done": true
   },

@@ -16,6 +16,7 @@
       "minecraft:ocean": "2025-06-21 16:33:16 +0000",
       "minecraft:cherry_grove": "2025-06-21 16:52:20 +0000",
       "minecraft:sunflower_plains": "2025-06-21 16:54:30 +0000",
+      "minecraft:birch_forest": "2025-06-24 13:05:10 +0000",
       "minecraft:windswept_hills": "2025-06-22 12:20:01 +0000",
       "minecraft:wooded_badlands": "2025-06-21 16:24:51 +0000",
       "minecraft:bamboo_jungle": "2025-06-22 19:35:27 +0000",
@@ -32,6 +33,7 @@
       "minecraft:dripstone_caves": "2025-06-21 21:01:44 +0000",
       "minecraft:deep_dark": "2025-06-23 13:33:23 +0000",
       "minecraft:swamp": "2025-06-22 12:20:40 +0000",
+      "minecraft:meadow": "2025-06-24 13:00:34 +0000",
       "minecraft:savanna": "2025-06-21 13:10:19 +0000",
       "minecraft:plains": "2025-06-21 12:31:16 +0000"
     },
@@ -334,6 +336,7 @@
       "minecraft:wither_skeleton": "2025-06-23 10:51:53 +0000",
       "minecraft:ghast": "2025-06-22 11:05:52 +0000",
       "minecraft:hoglin": "2025-06-22 17:49:12 +0000",
+      "minecraft:cave_spider": "2025-06-24 13:02:33 +0000",
       "minecraft:piglin": "2025-06-22 11:07:55 +0000",
       "minecraft:enderman": "2025-06-21 13:08:53 +0000",
       "minecraft:magma_cube": "2025-06-22 12:34:03 +0000",
@@ -3216,6 +3219,54 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-06-24 11:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-24 13:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-24 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-24 12:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-06-24 12:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-24 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-24 13:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-24 12:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-24 13:01:30 +0000"
     },
     "done": true
   },
