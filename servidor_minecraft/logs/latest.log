@@ -193,3 +193,16 @@
 [10:33:05] [Server thread/INFO]: LEON_445 was slain by Shree6y
 [10:34:38] [Server thread/INFO]: [Shree6y: Set own game mode to Creative Mode]
 [10:34:44] [Server thread/INFO]: [Shree6y: Set own game mode to Survival Mode]
+[10:39:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501525, y=67, z=-293214} ji{x=-501523, y=66, z=-293216}
+[10:40:22] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[10:43:32] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
+[10:43:40] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[10:44:59] [Server thread/INFO]: Shree6y has made the advancement [Hot Stuff]
+[10:45:52] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
+[10:46:32] [Server thread/INFO]: Villager coj['Librarian'/83108, l='ServerLevel[world]', x=-3129.32, y=63.00, z=-2701.32] died, message: 'Librarian was slain by NoUR_455'
+[10:46:38] [Server thread/INFO]: Villager coj['Toolsmith'/83060, l='ServerLevel[world]', x=-3132.51, y=65.00, z=-2693.34] died, message: 'Toolsmith was slain by NoUR_455'
+[10:47:35] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[10:47:37] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[10:47:41] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
+[10:48:30] [Server thread/INFO]: NoUR_455 was killed
+[10:48:30] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
