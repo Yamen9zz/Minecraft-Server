@@ -66,3 +66,8 @@
 [08:47:31] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
 [08:48:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-71, y=93, z=-293} ji{x=-71, y=92, z=-294}
 [08:53:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-53, y=101, z=-311} ji{x=-53, y=100, z=-311}
+[08:55:48] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-113, y=58, z=-339} ji{x=-114, y=57, z=-341}
+[08:58:45] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[08:58:45] [Server thread/INFO]: NoUR_455 left the game
+[08:58:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-106, y=47, z=-432} ji{x=-106, y=46, z=-431}
+[08:59:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-86, y=48, z=-436} ji{x=-85, y=48, z=-436}
