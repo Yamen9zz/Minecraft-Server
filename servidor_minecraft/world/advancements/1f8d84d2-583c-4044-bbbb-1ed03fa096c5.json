@@ -231,17 +231,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-22 19:53:45 +0000",
-      "minecraft:piglin": "2025-06-22 21:20:14 +0000",
       "minecraft:phantom": "2025-06-24 16:00:05 +0000",
       "minecraft:zombified_piglin": "2025-06-22 21:20:57 +0000",
+      "minecraft:ghast": "2025-06-24 20:19:19 +0000",
+      "minecraft:piglin": "2025-06-22 21:20:14 +0000",
       "minecraft:enderman": "2025-06-22 20:34:24 +0000",
       "minecraft:silverfish": "2025-06-24 13:01:48 +0000",
       "minecraft:magma_cube": "2025-06-25 08:46:31 +0000",
       "minecraft:spider": "2025-06-22 20:09:47 +0000",
+      "minecraft:piglin_brute": "2025-06-25 09:09:14 +0000",
       "minecraft:zombie": "2025-06-22 19:43:15 +0000",
       "minecraft:creeper": "2025-06-22 20:02:47 +0000",
-      "minecraft:zombie_villager": "2025-06-22 20:47:32 +0000",
-      "minecraft:ghast": "2025-06-24 20:19:19 +0000"
+      "minecraft:zombie_villager": "2025-06-22 20:47:32 +0000"
     },
     "done": false
   },
@@ -3470,6 +3471,24 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-24 19:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-06-25 09:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-25 09:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-25 09:08:25 +0000"
     },
     "done": true
   },
