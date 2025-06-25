@@ -29,3 +29,11 @@
 [08:11:11] [User Authenticator #2/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
 [08:11:12] [Server thread/INFO]: LEON_445[/10.147.20.36:50503] logged in with entity id 511 at (-4451.3465451557295, 64.0, -950.656503238762)
 [08:11:12] [Server thread/INFO]: LEON_445 joined the game
+[08:12:57] [User Authenticator #3/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
+[08:13:01] [Server thread/INFO]: Shree6y[/10.147.20.38:53037] logged in with entity id 1446 at (-3561.766927882756, -29.0, -851.6095155864971)
+[08:13:01] [Server thread/INFO]: Shree6y joined the game
+[08:13:50] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[08:22:51] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -3561.390000, -26.000000, -850.350000]
+[08:25:31] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[08:26:06] [Server thread/INFO]: [Shree6y: Teleported LEON_445 to Shree6y]
+[08:32:34] [Server thread/INFO]: LEON_445 was shot by Shree6y
