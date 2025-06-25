@@ -399,6 +399,7 @@
       "minecraft:witch": "2025-06-22 18:33:21 +0000",
       "minecraft:wither_skeleton": "2025-06-23 14:16:58 +0000",
       "minecraft:ghast": "2025-06-22 11:06:25 +0000",
+      "minecraft:ender_dragon": "2025-06-25 11:28:59 +0000",
       "minecraft:hoglin": "2025-06-22 13:27:05 +0000",
       "minecraft:cave_spider": "2025-06-21 19:23:07 +0000",
       "minecraft:piglin": "2025-06-22 12:31:06 +0000",
@@ -4000,9 +4001,21 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-25 11:28:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-25 10:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-06-25 11:31:49 +0000"
     },
     "done": true
   },
@@ -4015,6 +4028,18 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-25 10:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-25 11:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-25 11:33:50 +0000"
     },
     "done": true
   },

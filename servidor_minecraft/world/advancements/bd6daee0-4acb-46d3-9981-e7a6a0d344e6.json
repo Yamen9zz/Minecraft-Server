@@ -374,6 +374,7 @@
       "cooked_mutton": "2025-06-21 15:20:31 +0000",
       "salmon": "2025-06-24 14:15:58 +0000",
       "cooked_beef": "2025-06-21 14:36:11 +0000",
+      "chorus_fruit": "2025-06-25 11:33:35 +0000",
       "melon_slice": "2025-06-21 12:56:30 +0000",
       "golden_carrot": "2025-06-25 11:11:22 +0000"
     },
@@ -3761,9 +3762,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-25 11:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-06-25 11:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-25 11:33:17 +0000"
     },
     "done": true
   },
