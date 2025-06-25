@@ -255,3 +255,29 @@
 [12:58:23] [Server thread/INFO]: Yamen9z[/10.147.20.81:51791] logged in with entity id 127984 at (-501411.8646549353, 70.3248826816725, -291771.0341754486)
 [12:58:23] [Server thread/INFO]: Yamen9z joined the game
 [12:58:56] [Server thread/WARN]: Yamen9z moved too quickly! -10.86942441726569,0.0,-0.6456934979651123
+[12:59:05] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[12:59:05] [Server thread/INFO]: NoUR_455 left the game
+[12:59:22] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[12:59:52] [Server thread/INFO]: Villager coj['Villager'/129564, l='ServerLevel[world]', x=-502403.72, y=69.56, z=-291708.63] died, message: 'Villager suffocated in a wall'
+[12:59:56] [Server thread/INFO]: Villager coj['Villager'/129649, l='ServerLevel[world]', x=-502441.63, y=69.00, z=-291712.28] died, message: 'Villager suffocated in a wall'
+[13:00:58] [Server thread/INFO]: Villager coj['Villager'/130129, l='ServerLevel[world]', x=-502444.37, y=80.56, z=-291452.72] died, message: 'Villager suffocated in a wall'
+[13:02:02] [Server thread/INFO]: [Yamen9z: Set own game mode to Spectator Mode]
+[13:02:21] [Server thread/INFO]: Villager coj['Villager'/131321, l='ServerLevel[world]', x=-502850.72, y=63.50, z=-291735.63] died, message: 'Villager suffocated in a wall'
+[13:04:21] [Server thread/INFO]: Villager coj['Villager'/132959, l='ServerLevel[world]', x=-504481.37, y=87.56, z=-292398.72] died, message: 'Villager suffocated in a wall'
+[13:04:23] [Server thread/INFO]: Villager coj['Villager'/132941, l='ServerLevel[world]', x=-504477.45, y=82.00, z=-292350.70] died, message: 'Villager suffocated in a wall'
+[13:04:32] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[13:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[13:05:01] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[13:05:30] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[13:06:11] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501499.500000, 70.000000, -293233.500000]
+[13:07:09] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[13:07:09] [Server thread/INFO]: Yamen9z left the game
+[13:08:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:08:23] [User Authenticator #11/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:08:23] [Server thread/INFO]: NoUR_455[/10.147.20.7:50083] logged in with entity id 134010 at (-4499.5, 64.31161120717262, -969.5)
+[13:08:23] [Server thread/INFO]: NoUR_455 joined the game
+[13:10:39] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[13:10:39] [Server thread/INFO]: NoUR_455 left the game
+[13:11:22] [User Authenticator #12/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:11:23] [Server thread/INFO]: NoUR_455[/10.147.20.7:50271] logged in with entity id 134960 at (-4430.355455758071, 73.0, -994.3224349970443)
+[13:11:23] [Server thread/INFO]: NoUR_455 joined the game
