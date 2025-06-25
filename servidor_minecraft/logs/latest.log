@@ -231,3 +231,27 @@
 [12:26:30] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -501499.500000, 70.000000, -293233.500000]
 [12:30:39] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -3499.500000, 70.000000, -969.500000]
 [12:30:45] [Server thread/INFO]: NoUR_455 fell out of the world
+[12:53:43] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[12:53:43] [Server thread/INFO]: NoUR_455 left the game
+[12:53:43] [Server thread/WARN]: handleDisconnection() called twice
+[12:54:41] [Server thread/INFO]: NoUR_455 (/10.147.20.7:52830) lost connection: Disconnected
+[12:54:52] [Server thread/INFO]: [Yamen9z: Set own game mode to Spectator Mode]
+[12:55:38] [User Authenticator #8/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[12:55:54] [Server thread/INFO]: NoUR_455[/10.147.20.7:52859] logged in with entity id 124426 at (-4446.001372920851, 69.0, -986.8546633457163)
+[12:55:55] [Server thread/INFO]: NoUR_455 joined the game
+[12:56:25] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[12:56:25] [Server thread/INFO]: NoUR_455 left the game
+[12:57:01] [User Authenticator #9/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[12:57:05] [Server thread/INFO]: NoUR_455[/10.147.20.7:52935] logged in with entity id 125724 at (-4446.001372920851, 69.0, -986.8546633457163)
+[12:57:05] [Server thread/INFO]: NoUR_455 joined the game
+[12:57:26] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -3499.500000, 70.000000, -969.500000]
+[12:57:27] [Server thread/WARN]: Yamen9z moved too quickly! -5.570226651499979,0.0,9.356310780916829
+[12:57:37] [Server thread/WARN]: Yamen9z moved too quickly! -6.666037154442165,0.0,8.609617659938522
+[12:57:59] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 70.000000, -969.500000]
+[12:58:00] [Server thread/WARN]: Yamen9z moved too quickly! -0.713154157740064,0.0,10.736268850625493
+[12:58:17] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[12:58:17] [Server thread/INFO]: Yamen9z left the game
+[12:58:22] [User Authenticator #10/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:58:23] [Server thread/INFO]: Yamen9z[/10.147.20.81:51791] logged in with entity id 127984 at (-501411.8646549353, 70.3248826816725, -291771.0341754486)
+[12:58:23] [Server thread/INFO]: Yamen9z joined the game
+[12:58:56] [Server thread/WARN]: Yamen9z moved too quickly! -10.86942441726569,0.0,-0.6456934979651123
